@@ -20,6 +20,15 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Screenshots
+
+![pixel perfect conversion](./public/images/pixel-perfect-conversion.png)
+![desktop-screen](./public/images/desktop-screen.png)
+![large screen 1](./public/images/large-screen-1.png)
+![mobile screen 1](./public/images/mobile-view-1.png)
+![mobile screen 2](./public/images/mobile-view-2.png)
+![wide screen](./public/images/wide-screen.png)
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
