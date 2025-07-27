@@ -25,7 +25,7 @@ export default function Sidebar() {
           </p>
         </div>
 
-        <h1 className="font-bold text-[33px] leading-13 text-dark">
+        <h1 className="font-bold text-[33px] leading-13 text-dark tracking-tight">
           Your <span className="text-primary">Work</span> Note is Minutes Away
         </h1>
 

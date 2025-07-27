@@ -10,7 +10,7 @@ export default function Onboarding() {
       }}
     >
       <Sidebar />
-      <MainCard />
+      <MainCard currentStep={5} totalSteps={12} />
     </div>
   );
 }
