@@ -6,6 +6,12 @@
   --foreground: #fff;
 }
 
+@theme {
+  --color-primary: #2563eb;
+  --color-dark: #111827;
+  --color-gray: #4b5563;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
